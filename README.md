@@ -3,3 +3,5 @@ This is a distributed application using uMundo framework. uMundo is a distribute
 
 * Software used: Eclipse IDE, Android SDK, Java
 * Hardware used: Android Nexus Phone, Windows 8 desktops
+
+![Alt text](./uMundo_distributed_app.png "Output Result:")
